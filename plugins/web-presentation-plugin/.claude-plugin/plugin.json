@@ -1,0 +1,8 @@
+{
+    "name": "web-presentation",
+    "version": "1.0.0",
+    "description": "PPT 생성 플러그인",
+    "author": {
+        "name": "Kay Jang"
+    }
+}

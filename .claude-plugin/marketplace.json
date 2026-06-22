@@ -1,0 +1,18 @@
+{
+    "name": "kay Marketplace",
+    "owner": {
+        "name": "key Jang",
+        "email": "deepbird@gmail.com"
+    },
+    "plugins": [
+        {
+            "name": "web-presentation",
+            "source": "./plugins/web-presentation-plugin",
+            "version": "1.0.0",
+            "description": "웹 프레젠테이션용 HTML 생성 플러그인",
+            "author": {
+                "name": "Key Jang"
+            }
+        }
+    ]
+}
